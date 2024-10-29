@@ -1,0 +1,1 @@
+"id": "skiena2017data" "title": "The data science design manual" "authors": ["Steven Skiena"] "year": 2017 "publisher": "Springer"
